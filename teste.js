@@ -1,1 +1,1 @@
-alert(0)
+alterieo o arquivo 
